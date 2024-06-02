@@ -44,3 +44,37 @@ To set up the project locally, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/your-username/ninja-esports-homepage.git
+cd ninja-esports-homepage
+open index.html
+
+After installation, you can explore the homepage features by navigating through different sections:
+
+Homepage: View the main slider with highlights and announcements.
+News: Access the latest news and updates about the team.
+Team: Learn about the team members, their roles, and profiles.
+Matches: Check out the schedule of upcoming matches and past results.
+Gallery: Browse through the media gallery containing images and videos.
+
+ninja-esports-homepage/
+├── img/
+├── index.html
+├── script.js
+└── style.css
+
+# Contributing
+
+We welcome contributions from the community. To contribute, please follow the steps below:
+
+1. **Fork the repository**.
+2. **Create a new branch** (`git checkout -b feature/your-feature`).
+3. **Commit your changes** (`git commit -m 'Add your feature'`).
+4. **Push to the branch** (`git push origin feature/your-feature`).
+5. **Open a pull request**.
+
+Please ensure that your code follows our coding standards and includes necessary documentation.
+
+## Contact
+
+For any inquiries or feedback, please contact us at [alizaman6780@gmail.com](mailto:alizaman6780@gmail.com).
+
+Thank you for visiting the Ninja E-Sports homepage repository. We hope you enjoy the engaging and interactive design!
