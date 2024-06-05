@@ -75,6 +75,9 @@ We welcome contributions from the community. To contribute, please follow the st
 
 Please ensure that your code follows our coding standards and includes necessary documentation.
 
+## License
+This project is licensed under the MIT License
+
 ## Contact
 
 For any inquiries or feedback, please contact us at [alizaman6780@gmail.com](mailto:alizaman6780@gmail.com).
