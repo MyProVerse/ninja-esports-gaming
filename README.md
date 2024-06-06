@@ -57,11 +57,12 @@ Gallery: Browse through the media gallery containing images and videos.
 
 # File Structure
 
-  ninja-esports-gaming/
+- ninja-esports-gaming/
 - [img/](img/)
 - [index.html](index.html)
 - [script.js](script.js)
 - [style.css](style.css)
+
 
 
 # Contributing
