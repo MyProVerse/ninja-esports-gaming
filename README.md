@@ -55,8 +55,9 @@ Team: Learn about the team members, their roles, and profiles.
 Matches: Check out the schedule of upcoming matches and past results.
 Gallery: Browse through the media gallery containing images and videos.
 
-# ninja-esports-gaming/
+# File Structure
 
+# ninja-esports-gaming/
 - [img/](img/)
 - [index.html](index.html)
 - [script.js](script.js)
